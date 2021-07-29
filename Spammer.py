@@ -1,6 +1,6 @@
 '''
     " Grab your dick if you love big poppa " - Big Poppa
-    By: Pishh(P155H)
+    By: Pishh
     Date: 7/5/2021
     Ver: 0.01
     Title: Twitter Spammer
